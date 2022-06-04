@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FF0202&multiline=true&height=500&lines=Hello+Human...;It%E2%80%99s+not+a+bug+;it%E2%80%99s+an+undocumented+feature.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FF0202&multiline=true&height=300&lines=Hello+Human...;It%E2%80%99s+not+a+bug+;it%E2%80%99s+an+undocumented+feature.)](https://git.io/typing-svg)
